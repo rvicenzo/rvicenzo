@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rvicenzo
-- 👀 I’m interested in JS, React, Node.js and Go
+- 👀 I’m interested in JS/TS, React, Node.js, solution architecture and Kafka
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on solutions for people with disabilities or teach people who can't afford classes
 - 📫 How to reach me: linkedin.com/in/rafaelvicenzo
